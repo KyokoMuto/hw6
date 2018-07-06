@@ -1,0 +1,5 @@
+ 
+gcloud auth login
+lively-shelter-20920
+dev_appserver.py python/
+http://localhost:8080/
